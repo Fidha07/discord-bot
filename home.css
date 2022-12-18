@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    background-color: #1f1742;
+    color:rgb(119, 141, 204);
+    font-size: x-large;
+    padding-left:100px;
+}
+.flex{
+    width: 400px;
+    height:400px;
+}
+a{
+    text-decoration: none;
+    color: rgb(186, 189, 22);
+  }
+  a:hover{
+    font-size: 25px;
+  }
+  .image{
+    padding-top: 80px;
+    padding-left: 100px;
+    height:400px;
+    width:400px;
+  }
